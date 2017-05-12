@@ -1,7 +1,8 @@
 # Neighbourhood_map
 
-It is a single screen application featuring a google map of neighborhood cinemas.
-Additional functionality to this map includes highlighted locations and third-party data about those locations.
+This is single screen application showing nearby cinemas using google maps.
+Aditionally it shows their address after clicking on name or their map marker.
+
 
 ## Technical Specification
 
